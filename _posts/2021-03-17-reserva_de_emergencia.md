@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [reserva]
 ---
-#Reserva de Emergência
+# Reserva de Emergência
 ## O que é Reserva de Emergência
 
 Imprevistos acontecem. Por definição não podemos nos preparar para aquilo que não conseguimos prever. Logo, sofreremos as consequências. Fato. Agora, parte das consequências ruins dos imprevistos podem ser atenuadas com dinheiro.  
