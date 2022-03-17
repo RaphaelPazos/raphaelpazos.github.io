@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
+subtitle: Eu sou relevante?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Raphael Pazos. Eu fiz 3 coisas bem na minha vida:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Eu fui sendo promovido e cheguei ao cargo máximo da minha carreira em 10 anos
+- Eu me considero num nível satisfatório de tranquilidade financeira
+- Eu sou consultor de investimentos certificado e ajudo diversas pessoas com seus investimentos
 
-What else do you need?
+Neste site eu escrevo sobre cada uma dessas coisas.
 
-### My story
+No menu superior você pode encontrar links para navegar melhor pelo site.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Espero ajudar você de alguma forma!
