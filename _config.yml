@@ -14,7 +14,7 @@ author: Raphael Pazos
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mim: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -67,7 +67,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Site do Raphael Pazos sobre finanças, investimentos e ser promovido na carreira.
 
 # --- General options --- #
 
@@ -95,7 +95,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "finanças,carreira,investimentos,RaphaelPazos"
 
 # --- Colours / background image --- #
 
