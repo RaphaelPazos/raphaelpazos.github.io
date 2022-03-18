@@ -2,8 +2,8 @@
 layout: post
 title: Reserva de Emergência
 subtitle: Como pensar sua Reserva de emergência
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/cover-reserva.png
+thumbnail-img: /assets/img/thumbnail_reserva.png
 share-img: /assets/img/path.jpg
 tags: [reserva]
 ---
