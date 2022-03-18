@@ -4,7 +4,7 @@ title: Reserva de Emergência
 subtitle: Como pensar sua Reserva de emergência
 cover-img: /assets/img/cover-reserva.png
 thumbnail-img: /assets/img/thumbnail_reserva.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/cover-reserva.png
 tags: [reserva]
 ---
 # Reserva de Emergência
