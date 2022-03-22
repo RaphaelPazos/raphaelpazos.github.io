@@ -43,7 +43,11 @@ __Resposta fácil para quem quer seguir com a vida: 6 meses das suas despesas me
 __Resposta complicada: depende de muitos fatores e não é científico.__
 
 As opiniões de diversos especialistas é que a quantidade de dinheiro guardada deve variar de 3 a 12 meses das suas despesas mensais. A Catho fez uma pesquisa sobre tempo médio de recolocação no mercado de trabalho em 2014 descobriu que o tempo médio é de 6,1 meses.
+
+
 ![pesquisa Catho](/assets/img/recolocacao.png)
+
+
 Aqui vou explicar com exemplos extremos pra você ter uma ideia.
 
 Digamos você seja solteira. Seus pais moram perto de você e são bem sucedidos financeiramente. Você é médica e trabalha numa equipe de dezenas de pessoas. Seu trabalho oferece plano de saúde que inclui atendimento hospitalar e remoção. Seu salário é 4 vezes suas despesas mensais. 
@@ -100,11 +104,14 @@ O Tesouro Direto é uma opção razoável. Como a liquidez do Tesouro Direto é 
 
 Veja que é um jogo perigoso colocar a reserva no Tesouro Direto. Pode ser usada com as seguintes ressalvas: O título escolhido deve ser o Tesouro SELIC de vencimento mais curto e não deixe toda sua reserva no Tesouro. Deixe menos da metade e olhe lá. Vamos entender em que casos pode ser válido fazer isso:
 
-- Banco
+### Banco
 Deixar a sua reserva num banco é a melhor opção que existe no momento. O banco possui algumas vantagens como PIX que permite você movimentar dinheiro de forma eletrônica em qualquer horário em qualquer dia. Os bancos são instituições financeiras maiores que as corretoras então possuem maior segurança quanto ao seu dinheiro estar lá de verdade.
 No banco eu vejo 3 possibilidades para você escolher colocar sua reserva:
-- Poupança é a que eu menos gosto. A poupança é uma conta que é usada como contraparte ao financiamento de programas habitacionais do governo. Por isso ela é remunerada. Mas isso também significa que o governo tem acesso à poupança. E isso *ME* causa desconfianças. Repare, ênfase no "ME". A poupança dos brasileiros já foi tomada 1 vez na história. Eu não vivi isso. Mas li muito e [foi desesperador](https://g1.globo.com/economia/noticia/2020/03/17/entre-infartos-falencias-e-suicidios-os-30-anos-do-confisco-da-poupanca.ghtml) pra muitas pessoas. Porém em 2001 foi promulgada uma [emenda constitucional](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm) que coloca fortes barreiras para que isso não ocorra novamente. Você deve avaliar como você se sente quanto a isso. Eu não deixo meu dinheiro na poupança. Não recomendo a ninguém deixar.
+
+- Poupança é a que eu menos gosto. A poupança é uma conta que é usada como contraparte ao financiamento de programas habitacionais do governo. Por isso ela é remunerada. Mas isso também significa que o governo tem acesso à poupança. E isso *ME* causa desconfianças. Repare, ênfase no "ME". A poupança dos brasileiros já foi tomada 1 vez na história. Eu não vivi isso. Mas li muito e [foi desesperador](https://g1.globo.com/economia/noticia/2020/03/17/entre-infartos-falencias-e-suicidios-os-30-anos-do-confisco-da-poupanca.ghtml){:target="\_blank"} pra muitas pessoas. Porém em 2001 foi promulgada uma [emenda constitucional](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm){:target="\_blank"} que coloca fortes barreiras para que isso não ocorra novamente. Você deve avaliar como você se sente quanto a isso. Eu não deixo meu dinheiro na poupança. Não recomendo a ninguém deixar.
+
 - Alguns bancos possuem suas próprias corretoras com integração de contas. Ou seja, você compra produtos de investimento com o saldo da conta-corrente. Você recebe rendimentos de investimentos na conta-corrente diretamente. Dessa maneira parte da sua reserva pode estar em produtos de investimento de liquidez imediata, já que a fricção da transferência da corretora para o banco está eliminada.
+
 - Fundos DI são as melhores opções porque seu dinheiro está numa conta de CNPJ exclusivo com cobertura do FGC. Muitos fundos DI oferecem liquidez imediata e estes normalmente não fazem dívida. 
 
 Eu mencionei que o Tesouro Direto pode ser uma opção em alguns casos? Um dos casos é para patrimônios muito pequenos ou famílias com renda baixa. Os fundos DI de bancos normalmente são instrumentos que possuem péssimo rendimento. Eles rendem múltiplos menores que a poupança ou bem menos que o DI ou o Tesouro Direto SELIC. 
@@ -123,7 +130,7 @@ Existem duas maneiras de saber:
 
 Note algumas palavras e expressões que ficaram de fora: estimativa, dedução, eu acho, teve uns meses, na maioria das vezes, quase sempre é isso... você pode saber suas despesas mensais baseando-se em dedução e "na maioria das vezes"? Não. Você saberá uma dedução das suas despesas mensais ou suas "na maioria das vezes despesas mensais". Isso não é a mesma coisa que a despesa mensal da família. Eu já ouvi todas as desculpas e eu mesmo já disse todas as desculpas. Até que eu comecei a anotar todos os nossos gastos junto com a minha esposa. Hoje sabemos as nossas despesas mensais na vírgula. O resto é enganação.
 
-Usamos um aplicativo chamado [Fortuno](https://play.google.com/store/apps/details?id=com.impprove.app), que recomendo.
+Usamos um aplicativo chamado [Fortuno](https://play.google.com/store/apps/details?id=com.impprove.app){:target="\_blank"}, que recomendo.
 
 ### Tá e como guardar o dinheiro?
 
