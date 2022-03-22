@@ -15,10 +15,7 @@ author: Raphael Pazos
 
 navbar-links:
   Sobre mim: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Início: "https://raphaelpazos.github.io/"
 
 # --- Logo --- #
 
@@ -95,7 +92,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "finanças,carreira,investimentos,RaphaelPazos"
+keywords: "finanças,carreira,investimentos,reserva de emergência,RaphaelPazos"
 
 # --- Colours / background image --- #
 
