@@ -17,7 +17,7 @@ Vamos a alguns exemplos: Sua geladeira quebrou. O conserto custa 500 reais, é f
 
 Você está de férias num lugar longe de um hospital. Seu marido ou sua esposa começa a ter um ataque cardíaco. Você pode levar seu cônjuge ao hospital por conta própria ou pode contratar uma ambulância. O frete de uma ambulância dedicada custa nesse exemplo 700 reais. Além dos equipamentos corretos, a ambulância possui medicamentos destinados aos primeiros socorros e uma equipe dedicada exclusivamente a manter viva quem está enferma dentro da ambulância. Compare essa condição com você levando seu cônjuge no seu carro. Mas você tem só 300 reais na conta corrente...
 
-A reserva de emergência pode __em caso extremos__ ser a diferença entre a vida e a morte.
+A reserva de emergência pode **em caso extremos** ser a diferença entre a vida e a morte.
 
 ## O que não é Reserva de Emergência
 
