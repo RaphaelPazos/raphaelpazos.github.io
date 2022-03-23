@@ -38,7 +38,7 @@ Primeiro vamos voltar à definição:
 Como cada família é diferente e possui suas próprias ideias e filosofias sobre como a vida deve ser vivida, o parâmetro de unidade para saber quanto guardar deve ser uma medida que é particular àquela família. A métrica mais fácil seria a despesa mensal. E qual a intenção por trás disso? Uma das principais funções da reserva de emergência é sustentar a família caso a renda seja perdida por um tempo. Assim o cálculo pode ser feito baseado em quantos meses de despesas a reserva sustentaria a família.
 
 Ok, e quanto devo guardar como reserva?
-__Resposta fácil para quem quer seguir com a vida: 6 meses das suas despesas mensais._
+__Resposta fácil para quem quer seguir com a vida: 6 meses das suas despesas mensais.__
 
 __Resposta complicada: depende de muitos fatores e não é científico.__
 
