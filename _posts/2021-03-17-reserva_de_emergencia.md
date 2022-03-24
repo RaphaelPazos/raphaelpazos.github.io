@@ -8,7 +8,7 @@ share-img: /assets/img/cover-reserva.png
 tags: [reserva]
 ---
 
-<audio controls> <source src="https://drive.google.com/file/d/1zdayFjlKbDABLZJMHLFpeHlL3o5Y794e/view?usp=sharing" type="audio/mpeg"> </audio>
+<audio> <source src="https://drive.google.com/file/d/1zdayFjlKbDABLZJMHLFpeHlL3o5Y794e/view?usp=sharing" type="audio/mpeg"> </audio>
 
 ## O que é Reserva de Emergência
 
