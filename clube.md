@@ -28,6 +28,7 @@ Em relatórios do ano passado, expliquei o que é a taxa SELIC. Ela é basicamen
 
 A meta da taxa SELIC é a principal ferramenta do Banco Central para controle da inflação. Quando a inflação sobe demais, ou seja, os preços das coisas sobem além do que o Conselho Monetário Nacional (CMN) define como "normal", o COPOM sobe a taxa de juros. Se a inflação sobe de menos, o COPOM determina redução das taxas de juros. Podemos ver essa correlação na imagem abaixo, composta pelos gráficos que mostram a inflação e a meta da taxa SELIC ao longo dos últimos 10 anos. Deixei as escalas a mostra para que vocês possam ver que ambos os gráficos estão em harmonia.
 
+![Correlação Taxa Selic Meta e Inflação](/assets/img/selicinfla.png)
 
 Percebam o círculo vermelho. Ele mostra a situação que vivemos hoje. A inflação mostrou sinais de desaceleração no fim de 2021 porém recuperou força nesses primeiros meses de 2022. Isso pode mostrar sinais que estamos perto de um possível controle da inflação. Não significa que tudo ficará mais baixo, apenas que as coisas ficarão mais caras mais vagarosamente. Quando isso começar a acontecer num ritmo que o COPOM julgue saudável, veremos uma queda na taxa SELIC assim como aconteceu em 2010 e 2017. Quando essa queda começará? Não sabemos. Ninguém sabe. Pode ser agora em 2022, só em 2023....realmente não sabemos. o que eu tenho convicção forte é que essa inversão está próxima de acontecer.
 
@@ -36,10 +37,14 @@ Essa dinâmica de taxa de juros também afeta nosso câmbio contra o dólar.
 ### Câmbio
 
 Na imagem abaixo eu _tento_ mostrar a relação que existe entre a nossa taxa SELIC (linha preta) e a taxa de câmbio (linha vermelha).
+
+![Correlação Taxa Selic Meta e dólar](/assets/img/selicdolar.png)
+
 As círculos azul e verdes mostram períodos onde a taxa SELIC estava em queda forte e ficou em patamares baixos por tempo prolongado. As linhas azul e verde mostram que quando esse comportamento da taxa SELIC acontece, a taxa de câmbio tende a subir, desvalorizando o Real e deixando o dólar mais caro. O círculos amarelo mostram períodos de alta da taxa de juros e as linhas mostram as respectivas quedas. Por que isso acontece?
 
 Na imagem abaixo, você verá notícias sobre o fluxo de capital estrangeiro na bolsa e destaco o momento da publicação de cada matéria. Veja o que acontece com a taxa da câmbio.
 
+![Entradas e Saídas de capital estrangeiro](/assets/img/entraesai.png)
 
 A taxa se movimenta quando existe entrada e saída de capital estrangeiro no país. E normalmente o capital entra em momentos de taxas de juros mais altas e estabilidade, e o capital estrangeiro tende a sair em momentos de taxas de juros mais baixas e momentos de instabilidade. 
 A entrada de dólares na economia faz com que a demanda por reais suba (para que os investidores estrangeiros possam investir aqui). Muitos dólares, poucos reais, o real se valoriza frente ao dólar.
@@ -47,7 +52,7 @@ A saída de dólares da economia faz com que a demanda por dólares suba (para q
 
 Tá. E daí? Me dá o resumo.
 
-### Resumo
+## Resumo
 
 Nossa taxa de juros está alta, a taxa de câmbio está caindo e temos eleições. Estamos vendo, tomando emprestado de outros ciclos econômicos que já aconteceram:
 - Inflação tende a se estabilizar num futuro próximo;
@@ -57,7 +62,7 @@ Nossa taxa de juros está alta, a taxa de câmbio está caindo e temos eleiçõe
 - É esperado que quando a inflação se estabilizar e logo em seguida começar a cair, iniciaremos um ciclo inverso de queda de taxa de juros. Não faço ideia de quando isso irá acontecer. Ninguém faz. Nem o COPOM.
 
 
-### Conclusões
+## Conclusões
 
 É muito difícil acertar na mosca qualquer coisa em economia. Porém vendo o cenário a frente eu tiro algumas conclusões que guiarão nossos investimentos:
 - Títulos do Tesouro  Pré- fixados (que possuem a taxa de rentabilidade firmada na compra do título) são vantajosos pois seriam comprados logo antes de um ciclo de queda da taxa de juros;
