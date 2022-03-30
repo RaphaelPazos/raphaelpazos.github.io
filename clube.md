@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Clube de Planejamento Financeiro da Patrícia
-subtitle: Resumo sobre o clube de planejamento financeiro
+title: Clube da Patrícia
+subtitle: Resumo sobre o ano do clube de planejamento financeiro
 ---
 
 Oi pessoal!
@@ -10,7 +10,7 @@ Através dessa página eu vou dar mais informações a vocês sobre o andamento 
 
 ## Temas do ano
 
-Neste ano temos dois principais temas no Brasil: eleições e mudança de direção da taxa básica de juros. A seguir vou detalhar como essas teses podem influenciar as decisões do nosso planejamento financeiro.
+Neste ano temos dois principais temas no Brasil: eleições e mudança de direção da taxa básica de juros. A seguir vou detalhar como esses temas podem influenciar as decisões do nosso planejamento financeiro.
 
 ### Eleições
 
