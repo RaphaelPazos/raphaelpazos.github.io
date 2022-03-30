@@ -31,7 +31,11 @@ A meta da taxa SELIC é a principal ferramenta do Banco Central para controle da
 
 Percebam o círculo vermelho. Ele mostra a situação que vivemos hoje. A inflação mostrou sinais de desaceleração no fim de 2021 porém recuperou força nesses primeiros meses de 2022. Isso pode mostrar sinais que estamos perto de um possível controle da inflação. Não significa que tudo ficará mais baixo, apenas que as coisas ficarão mais caras mais vagarosamente. Quando isso começar a acontecer num ritmo que o COPOM julgue saudável, veremos uma queda na taxa SELIC assim como aconteceu em 2010 e 2017. Quando essa queda começará? Não sabemos. Ninguém sabe. Pode ser agora em 2022, só em 2023....realmente não sabemos. o que eu tenho convicção forte é que essa inversão está próxima de acontecer.
 
-Essa dinâmica de taxa de juros também afeta nosso câmbio contra o dólar. Na imagem abaixo eu _tento_ mostrar a relação que existe entre a nossa taxa SELIC (linha preta) e a taxa de câmbio (linha vermelha).
+Essa dinâmica de taxa de juros também afeta nosso câmbio contra o dólar. 
+
+### Câmbio
+
+Na imagem abaixo eu _tento_ mostrar a relação que existe entre a nossa taxa SELIC (linha preta) e a taxa de câmbio (linha vermelha).
 As círculos azul e verdes mostram períodos onde a taxa SELIC estava em queda forte e ficou em patamares baixos por tempo prolongado. As linhas azul e verde mostram que quando esse comportamento da taxa SELIC acontece, a taxa de câmbio tende a subir, desvalorizando o Real e deixando o dólar mais caro. O círculos amarelo mostram períodos de alta da taxa de juros e as linhas mostram as respectivas quedas. Por que isso acontece?
 
 Na imagem abaixo, você verá notícias sobre o fluxo de capital estrangeiro na bolsa e destaco o momento da publicação de cada matéria. Veja o que acontece com a taxa da câmbio.
@@ -43,7 +47,26 @@ A saída de dólares da economia faz com que a demanda por dólares suba (para q
 
 Tá. E daí? Me dá o resumo.
 
+### Resumo
+
 Nossa taxa de juros está alta, a taxa de câmbio está caindo e temos eleições. Estamos vendo, tomando emprestado de outros ciclos econômicos que já aconteceram:
 - Inflação tende a se estabilizar num futuro próximo;
 - Taxa de juros deve permancer alta até que a inflação mostre claros sinais de que está em queda;
-- Eleições deve mexer com ânimo do mercado mas situação deve se normalizar após o 1o turno 30 de outubro.
+- Eleições deve mexer com ânimo do mercado mas situação deve se normalizar após o 1o turno 30 de outubro;
+- Câmbio real contra dólar vem mostrando valorização do real. Essa situação se beneficia do fim do 1o turno e manutenção da taxa de juros em patamares altos;
+- É esperado que quando a inflação se estabilizar e logo em seguida começar a cair, iniciaremos um ciclo inverso de queda de taxa de juros. Não faço ideia de quando isso irá acontecer. Ninguém faz. Nem o COPOM.
+
+
+### Conclusões
+
+É muito difícil acertar na mosca qualquer coisa em economia. Porém vendo o cenário a frente eu tiro algumas conclusões que guiarão nossos investimentos:
+- Títulos do Tesouro  Pré- fixados (que possuem a taxa de rentabilidade firmada na compra do título) são vantajosos pois seriam comprados logo antes de um ciclo de queda da taxa de juros;
+- O dólar deve se valorizar uma vez que a taxa de juros começar a cair. Porém onde é o ponto de compra? Acredito que só depois que a taxa SELIC realmente estiver em trajetória de queda;
+- Produtos de investimentos que são negociados por pessoas físicas podem ser bons investimentos para compra agora porém ruins para venda no futuro próximo;
+- Enquanto aguardamos sinal claro de que o dólar começa um ciclo de valorização alocamos pequenas quantidades em títulos do Tesouro Pré- fixados e na Taxa SELIC.
+
+
+Esse é o racional que deve orientar o caminho do nosso patrimônio no planejamento financeiro.
+Caso tenham dúvidas vocês sabem onde podem me encontrar.
+
+Obrigado pela atenção!
