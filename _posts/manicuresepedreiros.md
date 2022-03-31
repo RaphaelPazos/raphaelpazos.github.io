@@ -64,6 +64,13 @@ Consultores de investimento são pessoas que tem alguma vivência e experiência
 Os consultores possuem três grandes vantagens frente à outras alternativas:
 - Esses profissionais trabalham para você. Você recebe diretamente, de maneira quase exclusiva, apoio para a sua tomada de decisão. O atendimento é personalizado e nomalmente o consultor sabe se adaptar à sua maneira de viver, de poupar e de pensar investimentos.
 - Você está livre de conflitos de interesses. Mais a frente tratarei mais especificamente sobre isso mas aqui basta você saber que tanto você quanto o consultor, seja qual for o cenário, possuem o mesmo interesse que é seus investimentos serem bem sucedidos.
+- As condições de serviço e pagamento podem ser personalizadas para atender a sua demanda. Embora todos os consultores tenham que atender exigências do órgão regulador da profissão (CVM) e alguns possuam modelos específicos de atendimento, outros conseguem moldar tudo à preferência do cliente.
+
+Com consultores a principal queixa é a disponibilidade. São poucos no mercado e os que existem não atendem pessoas físicas ou só atendem pessoas com patrimônio elevado. Isso de fato acontece mas o cenário pode estar mudando. Pelo menos eu estou tentando mudar. Eu sou um consultor de investimentos e atendo pessoas físicas. Basta adaptarmos o custo do serviço e o modelo de atendimento. Precisamos de fazer com que esteja bom para ambas as partes. 
+
+#### Carteiras recomendadas
+
+Carteiras recomendadas são indicações sobre quais produtos de investimento comprar ou vender, baseadas na análise feita por analistas que fazem parte de uma casa de análise. Hoje algumas famosas casas de análise são Spiti, Empiricus, Suno Research, Condor Insider, Eleven, Dica de Hoje.
 
 
 
