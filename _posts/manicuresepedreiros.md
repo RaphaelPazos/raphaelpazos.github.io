@@ -70,7 +70,9 @@ Com consultores a principal queixa é a disponibilidade. São poucos no mercado 
 
 #### Carteiras recomendadas
 
-Carteiras recomendadas são indicações sobre quais produtos de investimento comprar ou vender, baseadas na análise feita por analistas que fazem parte de uma casa de análise. Hoje algumas famosas casas de análise são Spiti, Empiricus, Suno Research, Condor Insider, Eleven, Dica de Hoje.
+Carteiras recomendadas são indicações sobre quais produtos de investimento comprar ou vender, baseadas na análise feita por analistas que fazem parte de uma casa de análise. Hoje algumas famosas casas de análise são Spiti, Empiricus, Suno Research, Condor Insider, Eleven, Dica de Hoje. Estas carteiras possuem principalmente 3 características vantajosas:
+
+- 
 
 
 
