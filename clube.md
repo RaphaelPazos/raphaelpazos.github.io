@@ -4,6 +4,33 @@ title: Clube da Patrícia
 subtitle: Resumo sobre o ano do clube de planejamento financeiro
 ---
 
+
+## Resultado 1T22
+
+![Gráfico Resultados 1T22](/assets/img/1t22.png)
+
+O clube acumula até o momento rentabiliade de 0,71%, à frente apenas do dólar que acumula queda de 9,53% e atrás de todos os outros índices comparativos.
+Essa defasagem aconteceu por 2 motivos:
+- Para estarmos posicionados para capturar a elevação de preço dos títulos prefixados do Tesouro Nacional, precisamos estar posicionados neles antes de eventualmente acontecer a invessão da curva da Taxa Selic que menciono [aqui](#SELIC);
+- Valores menores que 100 reais são difíceis de serem alocados em instrumentos que atinjam bons crivos de segurança, mas uma solução já está sendo providenciada.
+
+## Como estamos alocados?
+
+![Gráfico Alocação 1T22](/assets/img/aloc1t22.png)
+
+Temos mais da metade dos recursos alocados em Tesouro Direto Selic, 20% na série mais longa e 51% na série mais curta. Além disso, 29% em Tesouro Direto Pré-fixado. 
+
+## Futuro
+
+Os 71% alocados no Tesouro Direto Selic estão aguardando momento mais apropriado para entrada em Dólar através de um fundo cambial, ou em Tesouro pré-fixado. Existem 2 gatilhos que estamos aguardando:
+- Desaceleração  massiva e/ou estabilidade no ciclo de alta da taxa Selic;
+- Estabilização da taxa de câmbio.
+
+Ambos devem acontecer em breve. Como é impossível acertar "na cabeça" quando essas estabilizações acontecerão, vamos alocando aos poucos. Por enquanto o percentual em Tesouro Pré-Fixado é o suficiente para o nosso patrimônio. Você podem ver pelos resultados que o dólar se movimenta com muito mais força. Então a alocação deve ser cuidadosa e criteriosa *__SE__* for feita.
+
+O mais importante é que caso existam crises ou movimentos erráticos como os que aconteceram no ano passado, estamos com o patrimônio em uma posição estável que sustenta essas volatilidades. 
+
+***
 Oi pessoal!
 
 Através dessa página eu vou dar mais informações a vocês sobre o andamento do clube. Não postarei atualizações tão frequentemente como antes mas o cuidado e atenção serão os mesmos senão maiores.
@@ -22,7 +49,7 @@ Assim sendo, neste ano vamos ficar mais fora de ativos que sejam muito expostos 
 
 A pesquisa também diz que o ponto inicial importa bastante para o quadro de desempenho geral. Vamos então passar para a direção da taxa básica de juros.
 
-### Taxa SELIC
+<a name="SELIC"></a>### Taxa SELIC
 
 Em relatórios do ano passado, expliquei o que é a taxa SELIC. Ela é basicamente a taxa de juros que o Comitê de Políticas Monetárias do Banco Central (COPOM) define como sendo a taxa que o governo federal irá exercer como base em suas próprias operações de empréstimo e crédito. Como o COPOM define a base, existe uma reação em cadeia e todos os agentes que emprestam ou consomem empréstimos são afetados por essas taxas. 
 
