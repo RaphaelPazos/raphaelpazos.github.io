@@ -31,6 +31,8 @@ Ambos devem acontecer em breve. Como é impossível acertar "na cabeça" quando 
 O mais importante é que caso existam crises ou movimentos erráticos como os que aconteceram no ano passado, estamos com o patrimônio em uma posição estável que sustenta essas volatilidades. 
 
 ***
+***
+
 Oi pessoal!
 
 Através dessa página eu vou dar mais informações a vocês sobre o andamento do clube. Não postarei atualizações tão frequentemente como antes mas o cuidado e atenção serão os mesmos senão maiores.
@@ -49,7 +51,7 @@ Assim sendo, neste ano vamos ficar mais fora de ativos que sejam muito expostos 
 
 A pesquisa também diz que o ponto inicial importa bastante para o quadro de desempenho geral. Vamos então passar para a direção da taxa básica de juros.
 
-<a name="SELIC"></a>### Taxa SELIC
+### <a name="SELIC"></a>Taxa SELIC
 
 Em relatórios do ano passado, expliquei o que é a taxa SELIC. Ela é basicamente a taxa de juros que o Comitê de Políticas Monetárias do Banco Central (COPOM) define como sendo a taxa que o governo federal irá exercer como base em suas próprias operações de empréstimo e crédito. Como o COPOM define a base, existe uma reação em cadeia e todos os agentes que emprestam ou consomem empréstimos são afetados por essas taxas. 
 
