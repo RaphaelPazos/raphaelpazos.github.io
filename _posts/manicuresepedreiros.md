@@ -72,10 +72,20 @@ Com consultores a principal queixa é a disponibilidade. São poucos no mercado 
 
 Carteiras recomendadas são indicações sobre quais produtos de investimento comprar ou vender, baseadas na análise feita por analistas que fazem parte de uma casa de análise. Hoje algumas famosas casas de análise são Spiti, Empiricus, Suno Research, Condor Insider, Eleven, Dica de Hoje. Estas carteiras possuem principalmente 3 características vantajosas:
 
-- 
+- Essas carteiras são listas simples como o que comprar e o que vender, o preço de cada produto e instruções específicas sobre cada ativo. É de relativamente simples execução.
+- Esses serviços fornecem informações adicionais sobre declaração de imposto de renda, lives de tira-dúvida, bônus de livros ou entrevistas exclusivas, entre outros benefícios.
+- Apesar de existirem alguns serviços caros, outros podem ser bem baratos. Enquanto escrevo aqui, existem carteiras recomendadas que cobrar anualmente 0,05% de um salário mínimo, o que é bastante barato.
 
+Existem duas queixas muito comuns sobre as carteiras recomendadas. A primeira é que são muito impessoais. Cada pessoa que assina uma carteira recomendada possui demandas e situações de vida distintas. É virtualmente impossível que uma carteira feita para um público de dezenas de milhares ou até centenas de milhares de pessoas atenda bem às demandas individuais.
 
+A outra queixa é o conflito de interesses. Esse é um problema da indústria como um todo e  merece seu próprio artigo.
 
+## Resumo
+Investimos para ter uma vida tranquila. Seja você empresário que quer investir no seu negócio ou você trabalhador que que quer investir em produtos financeiros, é prudente investir para o futuro para ser menos dependente das benesses que os governos do amanhã lhe dará ou não.
 
+Você pode investir por conta própria, que é um caminho árduo, longo, virtualmente infinito que demanda atenção, dedicação, e pode ser um hobby/carreira/ralo de tempo em si próprio. Ou você optar pelo serviço de pessoas que estudaram muito ou fizeram isso na prática para lhe ajudarem. 
 
+Existem boas opções de fundos de investimentos, consultores de investimentos e carteiras recomendadas que podem lhe orientar e até mesmo te instruir nesse caminho tortuoso. Cada modalidade de especialista apresenta vantagens e desvantagens.
 
+## Conclusão
+O que você quer fazer com seu tempo? Se dedicar a escolher investimentos, ler sobre mercado de capitais, se aprimorar e se manter a par do que acontece na economia? Ou você prefere se concentrar na sua própria carreira e aproveitar finais de semana com a sua família, noites de filme e pipoca? Essas são as perguntas primordiais que devem orientar se você investirá por conta própria ou usará um especialista. 
