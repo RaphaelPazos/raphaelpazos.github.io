@@ -36,7 +36,7 @@ Corretoras, assessores, bancos, influenciadores, adoram nos chamar de investidor
 
 Eu li meu primeiro livro sobre ações com 19 anos. Já li centenas de livros sobre investimentos, economia, finanças comportamentais, biografias de investidores, contabilidade, etc. Também centenas de estudos científicos, artigos, reportagens sobre o assunto. Demonstrações financeiras de empresas, relatórios de fundos, prospectos e estudos estão na casa dos milhares. Fiz cursos diversos, tenho certificações, MBA em finanças corporativas e presto serviço para outras pessoas. Eu pago a conta luz, o supermercado e o presente de natal das pessoas com o retorno que eu tenho dos investimentos que eu escolho. Eu sou um investidor. O caminho foi muito longo e complicado porém foi proveitoso. Eu fico animado para saber sobre os resultados de uma determinada empresa, ou para conversar com o gestor de um fundo ou assistir a uma palestra sobre a implicação da construção de um novo porto na cadeia produtiva de um determinado lugar.
 
-**Até hoje perco dinheiro. Até hoje erro. Tento errar cada vez menos.**
+**Até hoje perco dinheiro. Até hoje erro. O mercado é uma universidade com 0 graduados.**
 
 Outros investidores e gestores de patrimônio tiveram caminhos similares. Muitos possuem formação acadêmica específica na área ou conhecem alguém que trabalha no mercado.
 
@@ -60,7 +60,7 @@ Os fundos de investimento possuem três grandes vantagens:
 - O recolhimento do imposto de renda, seja ele qual for, é feita pelo fundo. Quando você investe em um produto específico fora de um fundo, precisa recolher e declarar cada detalhe do produto. Se você tiver ações de 20 empresas, são 20 diferentes linhas na declaração de imposto de renda, 20 informmes, 20 dores de cabeça    pra você administrar além disso você faz o recolhimento do imposto sobre o lucro com suas operações. Um fundo com ações de 20 empresas dentro dele significa 1 linha na sua declaração e eles mesmos recolhem os lucros. 
 
 
-- Fica muito mais fácil fazer a alocação baseada em um cenário mais abrangnte. Por exemplo, se um dólar custava R$6,00 há 3 meses atrás e agora custa R$4,50 e você julga uma boa hora para comprar dólares, pode simplesmente escolher um fundo de dólar ao invés de ir a uma casa de câmbio ou decidir que outro produto específico que possua exposição a dólar vai escolher.
+- Fica muito mais fácil fazer a alocação baseada em um cenário mais abrangrnte. Por exemplo, se US$1,00 custava R$6,00 há 3 meses atrás e agora custa R$4,50 e você julga uma boa hora para comprar dólares, pode simplesmente escolher um fundo de dólar ao invés de ir a uma casa de câmbio ou decidir que outro produto específico que possua exposição a dólar vai escolher.
 
 O principal problema que citam sobre os fundos é a taxa de administração. Cada fundo cobre uma taxa para pagar pelo serviço de gestão e administração do capital. Alguns fundos cobram muito outros cobram pouco. Isso é normal. O que não é normal é um fundo cobrar muito e entregar pouco resultado. Um dos fundos de investimento mais icônicos do mercado, o Renaissance Medallion tem taxa de adminsitração de 5% a.a. o que é muito superior à média cobrada pelo mercado. Seus investidores não estão preocupados com a taxa já que o fundo dobra seu capital a cada 2 anos e meio em média. É como se você desse 100 reais para uma pessoa e em 3 anos ela te devolvesse 280 reais. Nada mal...
 
@@ -77,7 +77,7 @@ Os consultores possuem três grandes vantagens frente à outras alternativas:
 
 
 - As condições de serviço e pagamento podem ser personalizadas para atender a sua demanda. Embora todos os consultores tenham que atender exigências do órgão regulador da profissão (CVM) e alguns possuam modelos específicos de atendimento, outros conseguem moldar tudo à preferência do cliente.
-- 
+
 
 Com consultores a principal queixa é a disponibilidade. São poucos no mercado e os que existem não atendem pessoas físicas ou só atendem pessoas com patrimônio elevado. Isso de fato acontece mas o cenário pode estar mudando. Pelo menos eu estou tentando mudar. Eu sou um consultor de investimentos e atendo pessoas físicas. Basta adaptarmos o custo do serviço e o modelo de atendimento. Precisamos de fazer com que esteja bom para ambas as partes. 
 
