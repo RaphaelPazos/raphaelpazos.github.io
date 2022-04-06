@@ -22,7 +22,7 @@ Mesmo se eu construísse uma casa para um parente meu, ou se minha esposa fizess
 
 Existe uma larga e profunda diferença entre a pessoa que paga suas contas, alimenta sua família e cumpre com suas obrigações prestando o serviço de fazer unhas ou construir casas e quem faz isso como um extra, um hobby, ou para dar suporte à sua vida. Eu e minha esposa não lidamos com prazos, pressões, projetos diferentes, dores diferentes, demandas diferentes, não temos a vivência do mercado e não precisamos testar nem nos atualizar sobre novas técnicas, materiais e tecnologias. 
 
-Um pedreiro hoje, deve(ria) conhecer grafiato, textura, tijolo deitado, vários pisos, pergolato entre outros. Uma manicure deve(ria) conhecer unha francesinha, carimbo de silicone, unha de gel, unhas quebradiças, tendências para cores, a unha da artista X da novela entre outros. Logo, a manicure e o pedreiro são especialistas nas suas funções. Você pode fazer suas unhas? Pode. Pode construir sua própria casa? Pode. Mas existem claras vantanges em ter uma especialista desencravando sua unha ou um especialista que sabe como impedir que sua casa tenha infiltrações.
+Um pedreiro hoje, deve(ria) conhecer grafiato, textura, tijolo deitado, vários pisos, pergolato entre outros. Uma manicure deve(ria) conhecer unha francesinha, carimbo de silicone, unha de gel, unhas quebradiças, tendências para cores, a unha da artista X da novela entre outros. Logo, a manicure e o pedreiro são especialistas nas suas funções. Você pode fazer suas unhas? Pode. Pode construir sua própria casa? Pode. **Mas existem claras vantanges em ter uma especialista desencravando sua unha ou um especialista que sabe como impedir que sua casa tenha infiltrações.**
 
 ## Você, investidor
 
@@ -36,13 +36,15 @@ Corretoras, assessores, bancos, influenciadores, adoram nos chamar de investidor
 
 Eu li meu primeiro livro sobre ações com 19 anos. Já li centenas de livros sobre investimentos, economia, finanças comportamentais, biografias de investidores, contabilidade, etc. Também centenas de estudos científicos, artigos, reportagens sobre o assunto. Demonstrações financeiras de empresas, relatórios de fundos, prospectos e estudos estão na casa dos milhares. Fiz cursos diversos, tenho certificações, MBA em finanças corporativas e presto serviço para outras pessoas. Eu pago a conta luz, o supermercado e o presente de natal das pessoas com o retorno que eu tenho dos investimentos que eu escolho. Eu sou um investidor. O caminho foi muito longo e complicado porém foi proveitoso. Eu fico animado para saber sobre os resultados de uma determinada empresa, ou para conversar com o gestor de um fundo ou assistir a uma palestra sobre a implicação da construção de um novo porto na cadeia produtiva de um determinado lugar.
 
+**Até hoje perco dinheiro. Até hoje erro. Tento errar cada vez menos.**
+
 Outros investidores e gestores de patrimônio tiveram caminhos similares. Muitos possuem formação acadêmica específica na área ou conhecem alguém que trabalha no mercado.
 
 Eventualmente vou escrever sobre o caminho solo. Meu foco é nos especialistas.
 
 ### Especialistas
 
-Você manicure, você pedreiro, vendedora de roupa, corretor de seguro, empresário, merendeira ou o que quer que seja que decida que quer continuar na sua carreira e ter tempo para se divertir com sua família sem preocupações com bolsa, mercado etc., tem a sua disposição algumas opções de recrutar especialistas que podem ajudar você a acumular capital para o futuro. Similares aos médicos que fazem cirugias em você ou engenheiros que projetam os shoppings que você visita, esses especialistas passam boa parte das manhãs e tardes (e noites e às vezes madrugadas) pensando, lendo, estudando, se atualizando sobre e vivendo o mercado de capitais. 
+Você manicure, você pedreiro, vendedora de roupa, corretor de seguros, empresário, merendeira ou o que quer que seja que decida que quer continuar na sua carreira e ter tempo para se divertir com sua família sem preocupações com bolsa, mercado etc., tem a sua disposição algumas opções de recrutar especialistas que podem ajudar você a acumular capital para o futuro. Similares aos médicos que fazem cirugias em você ou engenheiros que projetam os shoppings que você visita, esses especialistas passam boa parte das manhãs e tardes (e noites e às vezes madrugadas) pensando, lendo, estudando, se atualizando sobre e vivendo o mercado de capitais. 
 
 Aqui eu vou explicar sobre os diferentes especialistas e sobre como escolher e como eles podem te ajudar:
 
@@ -51,20 +53,31 @@ Aqui eu vou explicar sobre os diferentes especialistas e sobre como escolher e c
 Um fundo de investimento é um grupo de pessoas que entrega a um especialista a tarefa de fazer a gestão do dinheiro que lhe foi entregue. Esse especialista é chamado de gestor e cada gestor possui a sua especialidade e fará a gestão dinheiro com base no que o fundo se propõe. Um fundo de ações possui como gestor um especialista em avaliação de ações e não irá investir a maioria do seu capital em dívida ou em imóveis, por exemplo. 
 
 Os fundos de investimento possuem três grandes vantagens:
+
 - A gestão feita é por um especialista e essa pessoa provavelmente faz parte de uma empresa com diversos recursos e facilidades que apoiam o trabalho dessa gestora. Ela tem contatos com pessoas do setor de especialidade, vivência de mercado e experiência de anos no mercado.
-- O recolhimento do imposto de renda, seja ele qual for, é feita pelo fundo. Quando você investe em um produto específico fora de um fundo, precisa recolher e declarar cada detalhe do produto. Se você tiver ações de 20 empresas, são 20 diferentes linhas na declaração de imposto de renda, 20 informmes, 20 dores de cabeça ´pra você administrar além disso você faz o recolhimento do imposto sobre o lucro com suas operações. Um fundo com ações de 20 empresas dentro dele significa 1 linha na sua declaração e eles mesmos recolhem os lucros. 
+
+
+- O recolhimento do imposto de renda, seja ele qual for, é feita pelo fundo. Quando você investe em um produto específico fora de um fundo, precisa recolher e declarar cada detalhe do produto. Se você tiver ações de 20 empresas, são 20 diferentes linhas na declaração de imposto de renda, 20 informmes, 20 dores de cabeça    pra você administrar além disso você faz o recolhimento do imposto sobre o lucro com suas operações. Um fundo com ações de 20 empresas dentro dele significa 1 linha na sua declaração e eles mesmos recolhem os lucros. 
+
+
 - Fica muito mais fácil fazer a alocação baseada em um cenário mais abrangnte. Por exemplo, se um dólar custava R$6,00 há 3 meses atrás e agora custa R$4,50 e você julga uma boa hora para comprar dólares, pode simplesmente escolher um fundo de dólar ao invés de ir a uma casa de câmbio ou decidir que outro produto específico que possua exposição a dólar vai escolher.
 
-O principal problema que citam sobre os fundos é a taxa de administração. Cada fundo cobre uma taxa para pagar pelo serviço de gestão e administração do capital. Alguns fundos cobram muito outros cobram pouco. Isso é normal. O que não é normal é um fundo cobrar muito e entregar pouco resultado. Um dos fundos de investimento mais icônicos do mercado, o Renaissance Medallion tem taxa de adminsitração de 5% a.a. o que é muito superior à média cobrada pelo mercado. Seus investidores não estão preocupados com a taxa já que fundo dobra seu capital a cada 2 anos e meio em média. É como se você desse 100 reais para uma pessoa e em 3 anos ela te devolvesse 280 reais.
+O principal problema que citam sobre os fundos é a taxa de administração. Cada fundo cobre uma taxa para pagar pelo serviço de gestão e administração do capital. Alguns fundos cobram muito outros cobram pouco. Isso é normal. O que não é normal é um fundo cobrar muito e entregar pouco resultado. Um dos fundos de investimento mais icônicos do mercado, o Renaissance Medallion tem taxa de adminsitração de 5% a.a. o que é muito superior à média cobrada pelo mercado. Seus investidores não estão preocupados com a taxa já que o fundo dobra seu capital a cada 2 anos e meio em média. É como se você desse 100 reais para uma pessoa e em 3 anos ela te devolvesse 280 reais. Nada mal...
 
 #### Consultores de investimento
 
 Consultores de investimento são pessoas que tem alguma vivência e experiência com o mercado em geral ou com algum nicho específico. Normalmente estudaram muito determinados assuntos e aliam estudo à experiência adquirida. Cada consultor tem uma mentalidade, especialidade e alvo de mercado específico, por isso você deve procurar um que possa te atender e que se alinhe com seus objetivos e com suas expectativas.
 
 Os consultores possuem três grandes vantagens frente à outras alternativas:
+
 - Esses profissionais trabalham para você. Você recebe diretamente, de maneira quase exclusiva, apoio para a sua tomada de decisão. O atendimento é personalizado e nomalmente o consultor sabe se adaptar à sua maneira de viver, de poupar e de pensar investimentos.
+
+
 - Você está livre de conflitos de interesses. Mais a frente tratarei mais especificamente sobre isso mas aqui basta você saber que tanto você quanto o consultor, seja qual for o cenário, possuem o mesmo interesse que é seus investimentos serem bem sucedidos.
+
+
 - As condições de serviço e pagamento podem ser personalizadas para atender a sua demanda. Embora todos os consultores tenham que atender exigências do órgão regulador da profissão (CVM) e alguns possuam modelos específicos de atendimento, outros conseguem moldar tudo à preferência do cliente.
+- 
 
 Com consultores a principal queixa é a disponibilidade. São poucos no mercado e os que existem não atendem pessoas físicas ou só atendem pessoas com patrimônio elevado. Isso de fato acontece mas o cenário pode estar mudando. Pelo menos eu estou tentando mudar. Eu sou um consultor de investimentos e atendo pessoas físicas. Basta adaptarmos o custo do serviço e o modelo de atendimento. Precisamos de fazer com que esteja bom para ambas as partes. 
 
@@ -72,15 +85,20 @@ Com consultores a principal queixa é a disponibilidade. São poucos no mercado 
 
 Carteiras recomendadas são indicações sobre quais produtos de investimento comprar ou vender, baseadas na análise feita por analistas que fazem parte de uma casa de análise. Hoje algumas famosas casas de análise são Spiti, Empiricus, Suno Research, Condor Insider, Eleven, Dica de Hoje. Estas carteiras possuem principalmente 3 características vantajosas:
 
-- Essas carteiras são listas simples como o que comprar e o que vender, o preço de cada produto e instruções específicas sobre cada ativo. É de relativamente simples execução.
+- Essas carteiras são listas simples como o que comprar e o que vender, o preço de cada produto e instruções específicas sobre cada ativo. É de relativamente simples execução e muito simples entendimento. Vão direto ao ponto e apesar de normalmente os analistas destas casas escreverem relatórios, a leitura apesar de recomendada não é obrigatória.
+
+
 - Esses serviços fornecem informações adicionais sobre declaração de imposto de renda, lives de tira-dúvida, bônus de livros ou entrevistas exclusivas, entre outros benefícios.
-- Apesar de existirem alguns serviços caros, outros podem ser bem baratos. Enquanto escrevo aqui, existem carteiras recomendadas que cobrar anualmente 0,05% de um salário mínimo, o que é bastante barato.
+
+
+- Apesar de existirem alguns serviços caros, outros podem ser bem baratos. Enquanto escrevo aqui, existem carteiras recomendadas que cobrar anualmente 0,05% de um salário mínimo (R$60), o que é bastante barato para os termos de hoje.
 
 Existem duas queixas muito comuns sobre as carteiras recomendadas. A primeira é que são muito impessoais. Cada pessoa que assina uma carteira recomendada possui demandas e situações de vida distintas. É virtualmente impossível que uma carteira feita para um público de dezenas de milhares ou até centenas de milhares de pessoas atenda bem às demandas individuais.
 
-A outra queixa é o conflito de interesses. Esse é um problema da indústria como um todo e  merece seu próprio artigo.
+A outra queixa é o conflito de interesses. **Esse é um problema gigantesco da indústria como um todo e merece seu próprio artigo que escreverei em breve.**
 
 ## Resumo
+
 Investimos para ter uma vida tranquila. Seja você empresário que quer investir no seu negócio ou você trabalhador que que quer investir em produtos financeiros, é prudente investir para o futuro para ser menos dependente das benesses que os governos do amanhã lhe dará ou não.
 
 Você pode investir por conta própria, que é um caminho árduo, longo, virtualmente infinito que demanda atenção, dedicação, e pode ser um hobby/carreira/ralo de tempo em si próprio. Ou você optar pelo serviço de pessoas que estudaram muito ou fizeram isso na prática para lhe ajudarem. 
@@ -88,4 +106,5 @@ Você pode investir por conta própria, que é um caminho árduo, longo, virtual
 Existem boas opções de fundos de investimentos, consultores de investimentos e carteiras recomendadas que podem lhe orientar e até mesmo te instruir nesse caminho tortuoso. Cada modalidade de especialista apresenta vantagens e desvantagens.
 
 ## Conclusão
+
 O que você quer fazer com seu tempo? Se dedicar a escolher investimentos, ler sobre mercado de capitais, se aprimorar e se manter a par do que acontece na economia? Ou você prefere se concentrar na sua própria carreira e aproveitar finais de semana com a sua família, noites de filme e pipoca? Essas são as perguntas primordiais que devem orientar se você investirá por conta própria ou usará um especialista. 
