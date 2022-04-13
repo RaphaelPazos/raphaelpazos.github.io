@@ -2,9 +2,9 @@
 layout: post
 title: As 48 leis do poder
 subtitle: Não ofusque o brilho do mestre
-cover-img:
+cover-img:/assets/img/48capa.png
 thumbnail-img: /assets/img/48capa.png
-share-img: 
+share-img: /assets/img/48capa.png
 tags: [promoção],[48leis]
 ---
 
