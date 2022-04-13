@@ -6,9 +6,9 @@ subtitle: Eu sou relevante?
 
 Meu nome é Raphael Pazos. Eu fiz 3 coisas bem na minha vida:
 
-- Eu fui sendo promovido e cheguei ao cargo máximo da minha carreira em 10 anos
-- Eu me considero num nível satisfatório de tranquilidade financeira
-- Eu sou consultor de investimentos certificado e ajudo diversas pessoas com seus investimentos
+- Eu fui sendo promovido e cheguei ao cargo máximo da minha carreira em 10 anos;
+- Eu me considero num nível satisfatório de tranquilidade financeira;
+- Eu sou investidor profissional, consultor de investimentos certificado e ajudo diversas pessoas com seus investimentos.
 
 Neste site eu escrevo sobre cada uma dessas coisas.
 
