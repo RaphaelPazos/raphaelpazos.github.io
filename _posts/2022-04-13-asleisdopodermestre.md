@@ -5,7 +5,7 @@ subtitle: Não ofusque o brilho do mestre
 cover-img: /assets/img/48capa.png
 thumbnail-img: /assets/img/48capa.png
 share-img: /assets/img/48capa.png
-tags: [promoção], [48leis]
+tags: [promoção]
 ---
 
 Um dos livros mais importantes que eu li (ouvi) durante a minha carreira foi As 48 Leis do Poder, de Robert Greene. Nesse livro Greene faz um estudo desapaixonado sobre o que fizeram as pessoas chegarem ao poder ao longo dos anos. Um detalhe importante é que o autor sabe bem que estar no poder é diferente de ser a chefe ou ser o presidente. Ou seja, poder não é um cargo. O livro traz diversos exemplos de ministros com mais poder que o presidente, cortesãos com mais poder que o rei e prostitutas com mais poder que a realeza.
