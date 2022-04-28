@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conflito de interesses
-subtitle: Esse e-book é realmente grátis?
+subtitle: Existe grátis?
 cover-img: /assets/img/wolfinasheeps.jpg
 thumbnail-img: /assets/img/loboempeledecordeiro.jpg
 share-img: /assets/img/wolfinasheeps.jpg
