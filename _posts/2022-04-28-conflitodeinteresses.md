@@ -24,7 +24,7 @@ Esse conceito é importantíssimo no mundo das finanças e dos investimentos. É
 
 Para que possamos analisar se existe ou não conflito de interesses precisamos saber qual é o interesse do agente. Nem sempre é aquilo que parece ser. Nem sempre é aquilo que o agente declara. 
 
-Quando o assunto é dinheiro a conversa fica ainda mais complicada. Todos nós precisamos de dinheiro para viver e existe um consenso que se precisamos de dinheiro para viver, então quanto mais dinheiro melhor se vive. Não só isso existe como pior: ![quanto mais dinheiro se tem, mais dinheiro se precisa para aumentar a percepção de incremento da qualidade de vida de uma pessoa.](https://blogdoibre.fgv.br/posts/dinheiro-compra-um-pouco-de-felicidade)
+Quando o assunto é dinheiro a conversa fica ainda mais complicada. Todos nós precisamos de dinheiro para viver e existe um consenso que se precisamos de dinheiro para viver, então quanto mais dinheiro melhor se vive. Não só isso existe como pior: [quanto mais dinheiro se tem, mais dinheiro se precisa para aumentar a percepção de incremento da qualidade de vida de uma pessoa.](https://blogdoibre.fgv.br/posts/dinheiro-compra-um-pouco-de-felicidade)
 
 Uma família com um patrimônio de RS100.000,00 ganha R$1.000.000,00 de reais. Isso causa um aumento na percepção de felicidade ou satisfação. Uma familia com um patrimônio de R$100.000.000,00 ganha a mesma quantia que a primeira. Isso causará menor percepção de aumento na satisfação com a vida em geral.
 
@@ -34,7 +34,7 @@ Quantas relações e interações comerciais que você tem que são "grátis"?
 
 ## Conflitos de interesse em investimentos
 
-![Em um artigo anterior](https://raphaelpazos.github.io/2022-04-05-manicuresepedreiros/) eu mencionei que você poderia investir com o apoio de um especialista e poderia estar livre de conflitos de interesse. Aqui vou mencionar problemas com alguns agentes que fazem parte do mercado de investimentos:
+[Em um artigo anterior](https://raphaelpazos.github.io/2022-04-05-manicuresepedreiros/) eu mencionei que você poderia investir com o apoio de um especialista e poderia estar livre de conflitos de interesse. Aqui vou mencionar problemas com alguns agentes que fazem parte do mercado de investimentos:
 
 ### Agentes Autônomos de Investimento
 Os Agentes Autônomos, ou assesores de investimentos são pessoas que oferecem aos clientes da corretora produtos de investimento. Eles são contratados e possuem acordos comercais com as corretoras. Eles trabalham para a corretora de valores. Eu vou repetir:
@@ -49,7 +49,7 @@ Perceba: as assessorias de investimento só fazem dinheiro quando existe um repa
 
 Qual o interesse do seu assessor de investimentos? Que você ganhe dinheiro? Que você tenha um futuro financeiro tranquilo? Não. Que você compre produtos. "Ah mas eu estou com meu dinheiro 100% investido, não tenho mais dinheiro pra comprar nada". Ora, venda alguma coisa e compre outra. "Aumente seu retorno", "essa é a grande oportunidade", "nesse o retorno é garantido".... e outras coisas que eu já li e ouvi que talvez você já tenha lido e ouvido.
 
-A profissão de venda incentivada de investimentos é banida em algum países justamente por causa do inerente conflito de interesses que existe na profissão. Eu sugiro que você não use e não ouça assessores pois existem outras maneiras que descrevi no meu ![artigo sobre como investir.](https://raphaelpazos.github.io/2022-04-05-manicuresepedreiros/)
+A profissão de venda incentivada de investimentos é banida em algum países justamente por causa do inerente conflito de interesses que existe na profissão. Eu sugiro que você não use e não ouça assessores pois existem outras maneiras que descrevi no meu [artigo sobre como investir.](https://raphaelpazos.github.io/2022-04-05-manicuresepedreiros/)
 
 ### Casas de análise, bancos e corretoras de valores
 
