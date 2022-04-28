@@ -65,8 +65,6 @@ Eu sei que você consegue cheirar o conflito. Mas você pensa: "então é óbvio
 
 Certo. Porém:
 
-Imagens
-
 
 
 
