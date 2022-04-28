@@ -2,9 +2,9 @@
 layout: post
 title: Conflito de interesses
 subtitle: Esse e-book é realmente grátis?
-cover-img: /assets/img/cover-reserva.png
-thumbnail-img: /assets/img/thumbnail_reserva.png
-share-img: /assets/img/cover-reserva.png
+cover-img: /assets/img/wolfinasheeps.png
+thumbnail-img: /assets/img/loboempeledecordeiro.png
+share-img: /assets/img/wolfinasheeps.png
 tags: [investimentos]
 ---
 
@@ -65,10 +65,21 @@ Eu sei que você consegue cheirar o conflito. Mas você pensa: "então é óbvio
 
 Certo. Porém:
 
+![BTG compra Empiricus](/assets/img/btgempiricus.png)
 
+![BTG compra Exame](/assets/img/btgexame.png)
+
+![XP compra Suno](/assets/img/xpsuno.png)
 
 
 Bancos que emitem produtos de investimento compram casas de análise para que possam influenciar, mesmo que indiretamente, campanhas de marketing e avaliações das casas de análise. Por que? Porque os bancos ganham dinheiro com a gestão e administração dos produtos que são recomendados pelas casas de análise. E se a casa de análise for independente e avaliar mal um determinado produto de investimento administrado por um banco? Você não compra o produto e o banco não recebe o seu dinheiro.
+
+![BBinvestimentos troca carteira recomendada](/assets/img/bbinv.png)
+
+![Elite troca carteira recomendada](/assets/img/elite.png)
+
+![Guide troca carteira recomendada](/assets/img/guide.png)
+
 
 Corretoras publicam carteiras recomendadas que trocam todos seus ativos com frequência. Por que? Porque corretoras ganham dinheiro com a taxa de corretagem que vem da compra e venda de ativos. Logo quando você compra e vende muitas vezes, gera dinheiro para a corretora. E se você comprar um produto uma vez, ficar com esse produto pra sua vida inteira? A corretora só ganhou uma corretagem.
 
