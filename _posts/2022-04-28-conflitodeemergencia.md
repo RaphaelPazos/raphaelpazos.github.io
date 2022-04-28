@@ -1,3 +1,13 @@
+---
+layout: post
+title: Conflito de interesses
+subtitle: Esse e-book é realmente grátis?
+cover-img: /assets/img/cover-reserva.png
+thumbnail-img: /assets/img/thumbnail_reserva.png
+share-img: /assets/img/cover-reserva.png
+tags: [investimentos]
+---
+
 Você está sentindo uma dor de cabeça. Você toma um remédio. O remédio cura a sua dor de cabeça. Simples. Porém pense o seguinte: o remédio foi produzido por um laboratório que ganha dinheiro só se você compra o remédio. Logo, para o laboratório, cada pessoa que é curada significa uma pessoa a menos precisando do remédio e pagando menos dinheiro ao laboratório. 
 
 O remédio cura a doença porém o remédio só gera dinheiro enquanto a doença está presente. 
