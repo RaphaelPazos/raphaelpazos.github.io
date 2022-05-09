@@ -3,7 +3,7 @@ layout: post
 title: Como consumir menos?
 subtitle: Fazendo uma Lavagem Cerebral reversa em você
 cover-img: 
-thumbnail-img: \assets\img\laranjaolhos.jpg
+thumbnail-img: /assets/img/laranjaolhos.jpg
 share-img: 
 tags: [finanças]
 ---
