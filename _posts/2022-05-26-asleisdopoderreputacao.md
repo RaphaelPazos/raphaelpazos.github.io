@@ -23,8 +23,8 @@ A empresa que você trabalha, o cargo que você quer ocupar, o nicho de mercado 
 
 Uma queixa comum que eu ouço (e tenho) dos prestadores de serviço informais como pedreiros, eletricistas, diaristas, marceneiros é a falta de compromisso. Números de contato em constante mudança, falta de resposta a ligações, atrasos com prazos.... 
 
-[![Matéria sobre o que fazer se opedreiro sumir](/assets/img/pedreirosumiu.jpg)](https://www.zapimoveis.com.br/blog/saiba-o-que-fazer-se-o-pedreiro-sumir-no-meio-da-obra/)
-[![Matéria sobre pedreiros enrolados](/assets/img/pedreiroenrolou.jpg)](https://www1.folha.uol.com.br/saopaulo/2016/04/1756513-pedreiros-e-cia-rebatem-criticas-e-contestam-a-pecha-de-enrolados.shtml)
+[![Matéria sobre o que fazer se opedreiro sumir](/assets/img/pedreirosumiu.jpg)](https://www.zapimoveis.com.br/blog/saiba-o-que-fazer-se-o-pedreiro-sumir-no-meio-da-obra/){:target="_blank"}
+[![Matéria sobre pedreiros enrolados](/assets/img/pedreiroenrolou.jpg)](https://www1.folha.uol.com.br/saopaulo/2016/04/1756513-pedreiros-e-cia-rebatem-criticas-e-contestam-a-pecha-de-enrolados.shtml){:target="_blank"}
 
 Quer ser um pedreiro diferenciado? Tenha a reputação absoluta com o compromisso:
 - Estabeleça serviço de resposta automática em Whatsapp e email;
