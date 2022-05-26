@@ -13,6 +13,7 @@ tags: [promoção,48leis]
 A reputação funciona à distância de forma antecipada. Antes mesmo de uma pessoa te encontrar, ou mesmo saber que você exista *de facto*, ela talvez já conheça a sua reputação. Logo o poder da reputação é fazer com que você, sua impressão, seu modo de agir, esteja onde você não pode estar. 
 Não creio que existe má reputação ou boa reputação. Apenas reputação. Mesmo porque só existe reputação porque outras pessoas percebem ou sabem ou espalham o modo como você age. Logo a sua reputação é reflexo de como as outras pessoas percebem seu modo de agir. 
 No livro, Greene dá um exemplo claro. Digamos que você seja uma manicure que trabalhe em um salão e tenha a reputação de não ligar para a opinião dos outros.  Suas colegas de trabalho talvez te percebam como uma artista: fiel aos valores que você acredita serem a boa execução de um trabalho. Suas clientes talvez a enxerguem como insolente e sua chefe como dispensável.
+
 Reputação de ser fiel a uma ideia pode ser fidelidade ou intransigência. Reputação de pontual poder ser comprometimento (se você marcou um compromisso com sua chefe) ou inflexibilidade (se você marcou um horário pra sair de casa na viagem de férias mas nem todos estão prontos). 
 E não é injusto ou um absurdo. Nós podemos agir da mesma maneira em duas situações diferentes e o comportamento ser adequado em uma e inadequado na outra. A reputação nada mais é que o eco do seu modo de agir.
 
@@ -22,8 +23,8 @@ A empresa que você trabalha, o cargo que você quer ocupar, o nicho de mercado 
 
 Uma queixa comum que eu ouço (e tenho) dos prestadores de serviço informais como pedreiros, eletricistas, diaristas, marceneiros é a falta de compromisso. Números de contato em constante mudança, falta de resposta a ligações, atrasos com prazos.... 
 
-![Matéria sobre o que fazer se opedreiro sumir](/assets/img/pedreirosumiu.jpg)(https://www.zapimoveis.com.br/blog/saiba-o-que-fazer-se-o-pedreiro-sumir-no-meio-da-obra/)
-![Matéria sobre pedreiros enrolados](/assets/img/pedreiroenrolou.jpg)(https://www1.folha.uol.com.br/saopaulo/2016/04/1756513-pedreiros-e-cia-rebatem-criticas-e-contestam-a-pecha-de-enrolados.shtml)
+[![Matéria sobre o que fazer se opedreiro sumir](/assets/img/pedreirosumiu.jpg)](https://www.zapimoveis.com.br/blog/saiba-o-que-fazer-se-o-pedreiro-sumir-no-meio-da-obra/)
+[![Matéria sobre pedreiros enrolados](/assets/img/pedreiroenrolou.jpg)](https://www1.folha.uol.com.br/saopaulo/2016/04/1756513-pedreiros-e-cia-rebatem-criticas-e-contestam-a-pecha-de-enrolados.shtml)
 
 Quer ser um pedreiro diferenciado? Tenha a reputação absoluta com o compromisso:
 - Estabeleça serviço de resposta automática em Whatsapp e email;
@@ -33,7 +34,7 @@ Quer ser um pedreiro diferenciado? Tenha a reputação absoluta com o compromiss
 - Ligue para o cliente 3 dias após a finalização para saber se o serviço continua a contento.
 
 O prestador de serviço que seguir isso, pode cobrar mais caro, pode escolher clientela e possivelmente não terá necessidade de propaganda porque estabelecerá uma reputação muito diferenciada da competição.  
-Você pode fazer o mesmo processo na sua posição ou cargo atual ou desejado. Um bom ponto de partida é alguém que já esteja um ou dois passos além de você. Quem no seu trabalho ocupa a posição que você quer e como essa pessoa chegou lá? Lógico que se a pessoa for cafajeste e desonesta e vigarista você não copiará tudo. Mesmo assim vale observar como talvez você possa agir de uma forma a passar uma reputação semelhante sem a canalhice.
+**Você pode fazer o mesmo processo na sua posição ou cargo atual ou desejado. Um bom ponto de partida é alguém que já esteja um ou dois passos além de você.** Quem no seu trabalho ocupa a posição que você quer e como essa pessoa chegou lá? Lógico que se a pessoa for cafajeste e desonesta e vigarista você não copiará tudo. Mesmo assim vale observar como talvez você possa agir de uma forma a passar uma reputação semelhante sem a canalhice.
 
 ### Mas então eu manipulo minhas ações para ter uma reputação?
 
@@ -56,7 +57,7 @@ O autor não fala sobre proteção, mas fala sobre a "mancha reversa".
 Ele cita como exemplo P.T. Barnum que era um promotor de shows. A medida que sua fama foi crescendo, ele foi adiquirindo a fama de produzir shows baratos, de mal gosto. Então ele "manchou" essa reputação indesejada contratando uma cantora internacional muito renomada para se apresentar. 
 Uma empresa que adiquire a reputação de tratar mal seus funcionários pode "manchar" esta reputação anunciando e fazendo grandes melhorias para seus funcionários. Uma pessoa que adquire uma reputação de sempre se atrasar pode não só passar a chegar com hora marcada mas sair com hora marcada e tratar tudo na ponta do relógio. 
 
-Normalmente aspectos ruins no contexto atual da nossa reputação são difíceis de serem revertidos, mas não existe outra possibilidade. Existem duas maneiras de deixar um lençol branco: ou mantê-lo limpo, ou sujá-lo de tinta branca por sobre as manhcas de outras cores. 
+Normalmente aspectos ruins no contexto atual da nossa reputação são difíceis de serem revertidos, mas não existe outra possibilidade. **Existem duas maneiras de deixar um lençol branco: ou mantê-lo limpo, ou sujá-lo de tinta branca por sobre as manhcas de outras cores.** 
 
 ## Exceção
 
