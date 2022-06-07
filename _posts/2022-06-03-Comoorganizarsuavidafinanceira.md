@@ -27,7 +27,7 @@ Neste artigo eu vou condensar esses passos e adptá-los para a nossa realidade b
 
   Caso você já cumpra algum dos passos, passe para o passo seguinte. **Mas eu ainda recomendo que você leia tudo!**
 
- ## 1o passo: Guarde R$2000,00 para sua reserva de emergência incial
+## 1o passo: Guarde R$2000,00 para sua reserva de emergência incial
 
   Achamos que se nosso salário é R$4.000,00 e gastamos por mês R$4.000,00, estamos bem. Só que uma quantidade grande casos de famílias que passam por apuros relativos a dinheiro em suas vidas se dá pelas despesas não planejadas. Uma casa que alaga, uma doença súbita, a perda de um parente que contribui com as finanças da casa.... dependendo da gravidade do fato, o impacto nas finanças familiares pode ser grande. Então o primeiro passo, que é quase como um aquecimento é criar a primeira reserva. Aquela que vai servir como um seguro caso algo inesperado aconteça na sua jornada rumo à estabilidade.
 
@@ -66,7 +66,7 @@ Neste artigo eu vou condensar esses passos e adptá-los para a nossa realidade b
 
   Caso você não seja a pessoa que leva jeito com dinheiro ou orçamento, tem um motivo ainda mais forte para fazer um orçamento e controlar suas despesas.
 
-  Na minha família usamos um aplicativo chamado Fortuno. Ele é gratuito e registramos nele cada centavo que gastamos. [Clique aqui para acessar o link](https://play.google.com/store/apps/details?id=com.impprove.app){target:blank}. Mas para seu orçamento incial eu recomendo fortemente papel e caneta.
+  Na minha família usamos um aplicativo chamado Fortuno. Ele é gratuito e registramos nele cada centavo que gastamos. [Clique aqui para acessar o link](https://play.google.com/store/apps/details?id=com.impprove.app){target:"_blank"}. Mas para seu orçamento incial eu recomendo fortemente papel e caneta.
 
 ### Ah mas influencer X disse que cortar custos e fazer orçamento é mentalidade da pobreza
 
