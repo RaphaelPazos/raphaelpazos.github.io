@@ -66,7 +66,7 @@ Neste artigo eu vou condensar esses passos e adptá-los para a nossa realidade b
 
   Caso você não seja a pessoa que leva jeito com dinheiro ou orçamento, tem um motivo ainda mais forte para fazer um orçamento e controlar suas despesas.
 
-  Na minha família usamos um aplicativo chamado Fortuno. Ele é gratuito e registramos nele cada centavo que gastamos. [Clique aqui para acessar o link](https://play.google.com/store/apps/details?id=com.impprove.app){target:"_blank"}. Mas para seu orçamento incial eu recomendo fortemente papel e caneta.
+  Na minha família usamos um aplicativo chamado Fortuno. Ele é gratuito e registramos nele cada centavo que gastamos. [Clique aqui para acessar o link](https://play.google.com/store/apps/details?id=com.impprove.app){:target="_blank"}. Mas para seu orçamento incial eu recomendo fortemente papel e caneta.
 
 ### Ah mas influencer X disse que cortar custos e fazer orçamento é mentalidade da pobreza
 
