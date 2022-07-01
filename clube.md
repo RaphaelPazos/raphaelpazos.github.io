@@ -4,6 +4,62 @@ title: Clube da Patrícia
 subtitle: Resumo sobre o ano do clube de planejamento financeiro
 ---
 
+## Resultado 2t22
+
+Várias pessoas tem mantido seus aportes de forma regular. Até agora ninguém faltou com qualquer aporto. Todos os meses todas as pessoas guardaram parte de seu patrimônio e para retirarem no futuro e pagarem suas contas. Isso é louvável e é não só o esssencial de uma vida financeira saudável, mas a essência do clube.
+
+![Gráfico Resultado 2T22](/assets/img/2t22.png)
+
+Até o trimestre atual o clube rendeu 4,21%. O CDI 2,46%, o IMA 2,27%, a poupança 1,8% e o IFIX 0,34%. Até o momento o clube só perde para o dólar que rendeu 5,04%. Detalhe, neste mês de junho apenas o dólar se valorizou 10,13%.
+Lembrando: Esses rendimentos simulam a mesma coisa que os aportes que foram feitos no clube e não os rendimentos acumulados pelos índices.
+
+Isso significa que o clube até o momento supera quase todos os índices que nós acompanhamos com exceção do indicador mais volátil de todos, a cotação do dólar.
+
+É possível que no futuro esse resultado decaia à medida que o imposto de renda for se materializando. Meu objetivo é superar a poupança, porém estamos superando inclusive o CDI, o que é raro. Minha expectativa é que fiquemos entre o CDI e a poupança.
+
+## Como estamos alocados?
+
+![Gráfico Alocação 2t22](/assets/img/aloc2t22.png)
+
+A maior parte dos recursos está alocada em Tesouro Direto Selic e temos um CDB que paga 112% do CDI (96% do CDI livre de impostos). Assim estamos aproveitando a subida da SELIC. Uma parte em título préfixado para caputrar uma eventual queda da SELIC, se houver. Uma novidade é o HCHG.
+
+### HCHG
+
+HCHG é o apelido do HCHG11 que é um fundo imobiliário. Esse fundo fornece capital para financiar projetos de construção civil. Assim somos donos de cotas de um pequeno "Banco Imobiliário". Os títulos de dívida que o HCHG é credor são muito sólidos, clientes muito tradicionais e sólidos. Existe um detalhe que chama atenção:
+
+![HCHG](/assets/img/hchg.png)
+
+O retângulo vermelho de cima mostra o resultado do fundo, ou seja, o que o fundo está gerando todo mês. O retângulo vermelho de baixo mostra o que o fundo vem pagando aos seus cotistas. O fundo vem pagando menos aos seus cotistas do que vem tendo como resultado. Eventualmente, essa diferença será paga, uma parte deve ser paga este ano. Quando essa diferença for paga, **é possível** que a cota do fundo se valorize de forma substancial. "SE VAI SE VALORIZAR POR QUE NÃO COLOCAMOS MAIS?!?!?!" Porque nem tudo será pago este ano, o que for pago este ano pode ser uma parte pequena desta diferença e as cotas do HCHG são altamente afetadas pelo humor das pessoas. Ou seja: se o fundo pagar uma parte relevante deste dinheiro e o (insira aqui o nome do seu candidato à presidência menos favorito) for eleito,  as cotas deste fundo podem subir ou cair. E o objetivodo clube é ter uma certa estabilidade. Então qualquer alocação em algo que varie muito de valor, será muito pequena.
+
+## Futuro
+
+![Selic Inflação Dólar](/assets/img/selicinfladolar.png)
+
+O gráfico acima é difícil de entender. Não preciso que ninguém entenda em detalhe, apenas que desenvolva o sentimento. Tanto que os valores foram omitidos.
+
+A linha vermelha mostra a cotação do dólar. A linha azul mostra a medida oficial de inflação do governo. A linha preta mostra a taxa de juros.
+
+Você não precisa entender sobre economia. Basta olhar essas 3 linhas e ver que elas possuem algum tipo de relação. 
+
+Ok, não é só porque linhas andam juntas que elas tem alguma relação, mas nesse caso elas tem. Elas tem haver com o fluxo de dinheiro que entra e sai do país, como esse fluxo é movimentado, e quanto custa/paga manter esse fluxo no país. Por isso elas tem relação.
+
+A seta indica o início deste ano. Na minha [futurologia de alguns meses atrás](#RESUMO), disse que a taxa de juros deveria continuar subindo até que a inflação desse sinais claros de controle. Como vocês podem ver a linha azul (inflação) continua subindo após a seta e a linha preta também. As medições atuais da inflação indicam uma certa estabilização, porém isso também aconteceu no início do ano. Então não é claro ainda que devemos ver queda de taxa de juros.
+
+Vemos na linha vermelha depois da seta um vai e vém. Isso significa grande entrada e saída de dólares da nossa economia. Isso aconteceu porque apesar da nossa taxa de juros estar alta, os Estados Unidos subiram a taxa de juros deles. Por que fizeram isso? Porque a inflação deles lá está em 7% ao ano, muito diferente do usual 1,5%. Então a expectativa de que o dólar continuasse caindo foi levemente atrapalhada por isso. 
+
+## Tá e daí?
+
+E daí que a elevação da taxa de juros nos EUA foi da ordem de 0,5%, muito inferior aos 7% da inflação de lá.
+
+E o nosso Banco Central elevou a nossa taxa de juros aqui em apenas 0,5%, muito menos que os 1 e 1,5% que vinha elevando antes.
+
+Ou seja, os Estados Unidos estão se tornando um cenário cada vez mais atrativo para investidores colocarem seu dinheiro. Isso significa que dinheiro pode sair do Brasil e ir para os Estados Unidos causando uma desvalorização do Real frente ao Dólar.
+
+Neste trimestre continuaremos alocando na taxa Selic que está pagando mais que 1% ao mês atualmente, porém montaremos uma pequena posição em Dólar. Caso o banco central de lá anuncie uma grande elevação da taxa de juros e o nosso Banco Central não o fizer ou fizer de maneira mais contida, é muito provável que vejamos uma grande valorização do dólar frente ao real.
+
+
+***
+***
 
 ## Resultado 1T22
 
@@ -81,7 +137,7 @@ A saída de dólares da economia faz com que a demanda por dólares suba (para q
 
 Tá. E daí? Me dá o resumo.
 
-## Resumo
+### <a name="RESUMO"></a>Resumo
 
 Nossa taxa de juros está alta, a taxa de câmbio está caindo e temos eleições. Estamos vendo, tomando emprestado de outros ciclos econômicos que já aconteceram:
 - Inflação tende a se estabilizar num futuro próximo;
