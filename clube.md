@@ -25,7 +25,7 @@ A maior parte dos recursos está alocada em Tesouro Direto Selic e temos um CDB 
 
 ### HCHG
 
-HCHG é o apelido do HCHG11 que é um fundo imobiliário. Esse fundo fornece capital para financiar projetos de construção civil. Assim somos donos de cotas de um pequeno "Banco Imobiliário". Os títulos de dívida que o HCHG é credor são muito sólidos, clientes muito tradicionais e sólidos. Existe um detalhe que chama atenção:
+HCHG é o apelido do HCHG11 que é um fundo imobiliário. Esse fundo fornece capital para financiar projetos de construção civil. Assim somos donos de cotas de um pequeno "Banco Imobiliário". Os títulos de dívida que o HCHG é credor são muito sólidos, clientes muito tradicionais e resilientes à crises. Existe um detalhe que chama atenção:
 
 ![HCHG](/assets/img/hchg.png)
 
