@@ -6,7 +6,7 @@ subtitle: Resumo sobre o ano do clube de planejamento financeiro
 
 ## Resultado 2t22
 
-Várias pessoas tem mantido seus aportes de forma regular. Até agora ninguém faltou com qualquer aporto. Todos os meses todas as pessoas guardaram parte de seu patrimônio para retirarem no futuro e pagarem suas contas. Isso é louvável e é não só o esssencial de uma vida financeira saudável, mas a essência do clube.
+Até agora ninguém faltou com qualquer aporte. Todos os meses todas as pessoas guardaram parte de seu patrimônio para retirarem no futuro e pagarem suas contas. Isso é louvável e é não só o esssencial de uma vida financeira saudável, mas a essência do clube.
 
 ![Gráfico Resultado 2T22](/assets/img/2t22.png)
 
