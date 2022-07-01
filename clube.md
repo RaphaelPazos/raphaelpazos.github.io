@@ -29,7 +29,7 @@ HCHG é o apelido do HCHG11 que é um fundo imobiliário. Esse fundo fornece cap
 
 ![HCHG](/assets/img/hchg.png)
 
-O retângulo vermelho de cima mostra o resultado do fundo, ou seja, o que o fundo está gerando todo mês. O retângulo vermelho de baixo mostra o que o fundo vem pagando aos seus cotistas. O fundo vem pagando menos aos seus cotistas do que vem tendo como resultado. Eventualmente, essa diferença será paga, uma parte deve ser paga este ano. Quando essa diferença for paga, **é possível** que a cota do fundo se valorize de forma substancial. "SE VAI SE VALORIZAR POR QUE NÃO COLOCAMOS MAIS?!?!?!" Porque nem tudo será pago este ano, o que for pago este ano pode ser uma parte pequena desta diferença e as cotas do HCHG são altamente afetadas pelo humor das pessoas. Ou seja: se o fundo pagar uma parte relevante deste dinheiro e o (insira aqui o nome do seu candidato à presidência menos favorito) for eleito,  as cotas deste fundo podem subir ou cair. E o objetivodo clube é ter uma certa estabilidade. Então qualquer alocação em algo que varie muito de valor, será muito pequena.
+O retângulo vermelho de cima mostra o resultado do fundo, ou seja, o que o fundo está gerando todo mês. O retângulo vermelho de baixo mostra o que o fundo vem pagando aos seus cotistas. O fundo vem pagando menos aos seus cotistas do que vem tendo como resultado. Eventualmente, essa diferença será paga, uma parte deve ser paga este ano. Quando essa diferença for paga, **é possível** que a cota do fundo se valorize de forma substancial. "SE VAI SE VALORIZAR POR QUE NÃO COLOCAMOS MAIS?!?!?!" Porque nem tudo será pago este ano, o que for pago este ano pode ser uma parte pequena desta diferença e as cotas do HCHG são altamente afetadas pelo humor das pessoas. Ou seja: se o fundo pagar uma parte relevante deste dinheiro e o (insira aqui o nome do seu candidato à presidência menos favorito) for eleito,  as cotas deste fundo podem subir ou cair. E o objetivo do clube é ter uma certa estabilidade. Então qualquer alocação em algo que varie muito de valor, será muito pequena.
 
 ## Futuro
 
@@ -41,7 +41,7 @@ A linha vermelha mostra a cotação do dólar. A linha azul mostra a medida ofic
 
 Você não precisa entender sobre economia. Basta olhar essas 3 linhas e ver que elas possuem algum tipo de relação. 
 
-Ok, não é só porque linhas andam juntas que elas tem alguma relação, mas nesse caso elas tem. Elas tem haver com o fluxo de dinheiro que entra e sai do país, como esse fluxo é movimentado, e quanto custa/paga manter esse fluxo no país. Por isso elas tem relação.
+Ok, não é só porque linhas andam juntas que elas tem alguma relação, mas nesse caso elas tem. Elas tem a ver com o fluxo de dinheiro que entra e sai do país, como esse fluxo é movimentado, e quanto custa/paga manter esse fluxo no país. Por isso elas tem relação.
 
 A seta indica o início deste ano. Na minha [futurologia de alguns meses atrás](#RESUMO), disse que a taxa de juros deveria continuar subindo até que a inflação desse sinais claros de controle. Como vocês podem ver a linha azul (inflação) continua subindo após a seta e a linha preta também. As medições atuais da inflação indicam uma certa estabilização, porém isso também aconteceu no início do ano. Então não é claro ainda que devemos ver queda de taxa de juros.
 
@@ -57,6 +57,9 @@ Ou seja, os Estados Unidos estão se tornando um cenário cada vez mais atrativo
 
 Neste trimestre continuaremos alocando na taxa Selic que está pagando mais que 1% ao mês atualmente, porém montaremos uma pequena posição em Dólar. Caso o banco central de lá anuncie uma grande elevação da taxa de juros e o nosso Banco Central não o fizer ou fizer de maneira mais contida, é muito provável que vejamos uma grande valorização do dólar frente ao real.
 
+Espero que todas as pessoas continuem guardando dinheiro para poderem dormir mais tranquiliamente.
+
+Obrigado pela atenção!
 
 ***
 ***
