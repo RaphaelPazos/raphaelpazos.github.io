@@ -6,11 +6,11 @@ subtitle: Resumo sobre o ano do clube de planejamento financeiro
 
 ## Resultado 2t22
 
-Várias pessoas tem mantido seus aportes de forma regular. Até agora ninguém faltou com qualquer aporto. Todos os meses todas as pessoas guardaram parte de seu patrimônio e para retirarem no futuro e pagarem suas contas. Isso é louvável e é não só o esssencial de uma vida financeira saudável, mas a essência do clube.
+Várias pessoas tem mantido seus aportes de forma regular. Até agora ninguém faltou com qualquer aporto. Todos os meses todas as pessoas guardaram parte de seu patrimônio para retirarem no futuro e pagarem suas contas. Isso é louvável e é não só o esssencial de uma vida financeira saudável, mas a essência do clube.
 
 ![Gráfico Resultado 2T22](/assets/img/2t22.png)
 
-Até o trimestre atual o clube rendeu 4,21%. O CDI 2,46%, o IMA 2,27%, a poupança 1,8% e o IFIX 0,34%. Até o momento o clube só perde para o dólar que rendeu 5,04%. Detalhe, neste mês de junho apenas o dólar se valorizou 10,13%.
+Até o trimestre atual o clube rendeu 4,21%. O CDI 2,46%, o IMA 2,27%, a poupança 1,8% e o IFIX 0,34%. Até o momento o clube só perde para o dólar que se valorizou 5,04%. Detalhe, apenas neste mês de junho o dólar se valorizou 10,13%.
 Lembrando: Esses rendimentos simulam a mesma coisa que os aportes que foram feitos no clube e não os rendimentos acumulados pelos índices.
 
 Isso significa que o clube até o momento supera quase todos os índices que nós acompanhamos com exceção do indicador mais volátil de todos, a cotação do dólar.
@@ -21,7 +21,7 @@ Isso significa que o clube até o momento supera quase todos os índices que nó
 
 ![Gráfico Alocação 2t22](/assets/img/aloc2t22.png)
 
-A maior parte dos recursos está alocada em Tesouro Direto Selic e temos um CDB que paga 112% do CDI (96% do CDI livre de impostos). Assim estamos aproveitando a subida da SELIC. Uma parte em título préfixado para caputrar uma eventual queda da SELIC, se houver. Uma novidade é o HCHG.
+A maior parte dos recursos está alocada em Tesouro Direto Selic e temos um CDB que paga 112% do CDI (96% do CDI livre de impostos). Assim estamos aproveitando a subida da SELIC. Uma parte em título pré- fixado para capturar uma eventual queda da SELIC, se houver. Uma novidade é o HCHG.
 
 ### HCHG
 
