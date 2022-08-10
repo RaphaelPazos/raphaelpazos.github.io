@@ -57,7 +57,7 @@ Os dois fundos carregam um problema que é a questão da apuração de resultado
 
 ## KNRI
 
-Foto da Planilha
+![KNRI](/assets/img/KNRI.jpg)
 
 Começando de cima pra baixo, na borda vermelha estão os índices macroeconomicos. Aqui nenhuma explicação se faz necessária.
 
@@ -72,6 +72,8 @@ O valor de fechamento do dia foi R$141. Embaixo da caixa verde, todas essas comb
 Claro, ainda podemos considerar por exemplo inflação no centro da meta e calcular uma taxa de desconto e chegar ao "preço justo". Como disse antes, a fraqueza desse modo de usar o DCF é que não necessariamente o preço de tela do fundo chegará ao "preço justo" pela natureza de entrega de 95% dos rendimentos e estes fluxos de caixa não capturam desenvolvimento regional, reformas, e outras melhorias que influenciam enormemente o valor de um fundo de tijolo.
 
 ## KNIP
+
+![KNIP](/assets/img/KNIP.jpg)
 
 Novamente começamos pelo topo, na caixa vermelha, as premissas macroeconômicas. Aqui no KNIP usei o Tesouro Direito 2026 como baliza da taxa de desconto. Os outros prêmios da NTNB foram estimados baseados em rendimento similar do título quando a taxa Selic estava no passado em patamar similar às projeções do Focus. Eu fui tirando 1% do spread do fundo para refletir a queda do IPCA e SELIC, o que acho que é demais, visto que o Duration do fundo atual é de 5,2 anos.
 
