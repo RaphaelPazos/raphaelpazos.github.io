@@ -3,6 +3,52 @@ layout: page
 title: Clube da Patrícia
 subtitle: Resumo sobre o ano do clube de planejamento financeiro
 ---
+## Resultado 3t22
+
+Em alguns dos últimos 3 meses, não só ninguém faltou com os aportes, como antes do prazo, todas a pessoas já tinham feito seus aportes. Já tendo lido diversos casos de fracassos e de sucessos financeiros de pessoas normais como todos nós ao longo desses anos, posso dizer com absoluta tranquilidade: esse é um dos pilares para uma vida de tranqulidade financeira. Compromisso. Compromisso envolve sim sacrifício. Mas gera recompensa ao longo do tempo. Essa recompensa não significa só dinheiro no bolso, mas o desenvolvimento da nossa capacidade de ter disciplina. Parabéns para todas as pessoas.
+
+![Gráfico Resultado 3T22](/assets/img/3t22.jpg)
+
+O Clube rendeu até o momento de forma acumulada 4,38% contra 2,96% da poupança. Em comparação aos outros índices voltamos para o meio. 
+
+Neste trimestre capturamos parte da alta do dólar que disse no trimestre passado que poderia acontecer e que eu alocaria parte pequena do patrimônio. Nossa posição em título pré-fixado acabou nos prejudicando um pouco, não por um motivo estrutural, mas simplesmente pelo receio do mercado com as eleições. Estruturalmente as teses dos trimestres anteriores vem se mantendo.
+
+## Como estamos alocados?
+
+![Gráfico Alocação 3t22](/assets/img/aloc3t22.jpg)
+
+Nossa maior posição segue sendo Tesouro Selic porém fizemos aporte no título de prazo mais curto por dois motivos: contrabalancear a posição mais arriscada em Dólar, e estabilizar os resultados do fundo próximos do fim do prazo do clube.
+Vocês podem ver que nossa posição em dólar é pequena. Seguirá pequena.
+A nova alocação é um ativo chamado KNIP.
+
+### KNIP
+
+O KNIP é um fundo de investimento imobiliário similar ao HCHG. Porém, nesses últimos meses, o Brasil registrou deflação. Com isso, os contratos de empréstimo que são reajustados pela inflação pagaram menos. Fundos como o KNIP se desvalorizaram bastante. Entramos com uma alocação maior neste fundo porque o Brasil ainda não é Suíça ou Japão. Podemos ficar muito tranquilos que teremos inflação. Aqui a questão é dar tempo ao tempo, para que a inflação suba. 
+
+O KNIP é gerido pela KINEA que é uma gestora do Itaú, uma das mais respeitadas pelo mercado. É o maior fundo de dívida imobiliária do mercado brasileiro com quase 8 bilhões de reais de patrimônio com papéis de dívida de alta qualidade. 
+
+## Futuro
+
+O futuro do clube tem algumas teses:
+- HCHG entregando rendimento superior a 1% ao mês e destravando parte do valor represado. Se não destravar, o rendimento ainda compensa;
+- KNIP com valorização possível de 10% em alguns meses quando a inflação se estabilizar;
+- Títulos SELIC se valorizando quase 1% ao mês. Quase por causa do Imposto de renda;
+- Título Pré Fixado se valoriza caso a taxa Selic e juros futuros caiam, o que é mais provável de acontecer do que novas altas;
+- CDB PagBank pagando 99% do CDI já considerando o Imposto de renda;
+- Dólar caso a deflação se estenda, e a taxa de juros brasileira caia bruscamente ao mesmo tempo que a taxa de juros americana suba.
+
+Ou seja, temos posições balanceadas onde uma compensa a outra e o Dólar serve como um seguro. 
+
+## Tá e daí?
+
+E daí que o clube não terá o maior rendimento. O resultado do clube no trimestre anterior foi uma anomalia e agora estamos no rumo mais certo que é: o dinheiro está mais protegido contra grandes movimentos da economia e aumentamos a probabilidade de podermos pagar nosso IPTU ou IPVA em janeiro.
+
+Espero que todos nós continuemos guardando dinheiro para poderem dormir mais tranquiliamente.
+
+Obrigado pela atenção!
+
+***
+***
 
 ## Resultado 2t22
 
